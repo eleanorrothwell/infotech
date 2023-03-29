@@ -54,7 +54,7 @@ h1:hover {
     padding: 0 15px;
   }
 }
-
+/*Nav bar styled to look vaguely 90's - inspired by the blocky look of webpages then*/
 #nav a {
   text-decoration: none;
   padding: 5px 21px;
@@ -81,7 +81,7 @@ h1:hover {
   flex-direction: column;
   justify-content: space-between;
 }
-
+/*I was really inspired by Geocities here*/
 #planet3 {
 margin-left: 500px;
 height: 200px;
